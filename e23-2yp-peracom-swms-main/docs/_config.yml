@@ -1,0 +1,13 @@
+# This theme is based on https://github.com/jekyll/minima
+# Please refer above link to know the available configurations
+
+title: "PeraCom Student Welfare Management System"
+remote_theme: cepdnaclk/eYY-project-theme
+description: "A centralized digital welfare and scholarship management platform for the Department of Computer Engineering, University of Peradeniya."
+markdown: kramdown
+
+kramdown:
+  parse_block_html: true
+  syntax_highlighter_opts:
+    block:
+      line_numbers: false

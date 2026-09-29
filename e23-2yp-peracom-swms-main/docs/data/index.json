@@ -1,0 +1,39 @@
+{
+    "title": "PeraCom Student Welfare Management System",
+    "description": "A centralized student welfare and scholarship management platform for the Department of Computer Engineering, University of Peradeniya.",
+    "team": [
+        {
+            "name": "V. Birunthan",
+            "email": "e23040@eng.pdn.ac.lk",
+            "eNumber": "E/23/040"
+        },
+        {
+            "name": "J. Dinushan",
+            "email": "e23078@eng.pdn.ac.lk",
+            "eNumber": "E/23/078"
+        },
+        {
+            "name": "B. Nilaxshan",
+            "email": "e23245@eng.pdn.ac.lk",
+            "eNumber": "E/23/245"
+        },
+        {
+            "name": "K. Srikaran",
+            "email": "e23387@eng.pdn.ac.lk",
+            "eNumber": "E/23/387"
+        }
+    ],
+    "supervisors": [
+        {
+            "name": "Dr. Yasodha Vimukthi",
+            "email": "yasodhav@eng.pdn.ac.lk"
+        }
+    ],
+    "tags": [
+        "Web",
+        "Software Systems",
+        "CO2060"
+    ],
+    "image": "cover_page.jpg",
+    "thumbnail": "thumbnail.jpg"
+}
