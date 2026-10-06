@@ -1,7 +1,9 @@
 import axios from 'axios'
 
+const apiUrl = import.meta.env.VITE_API_URL || 'https://e23-2yp-peracom-swms-5.onrender.com'
+
 const api = axios.create({
-  baseURL: import.meta.env.VITE_API_URL ? `${import.meta.env.VITE_API_URL}/api` : '/api',
+  baseURL: `${apiUrl.replace(/\/$/, '')}/api`,
   headers: { 'Content-Type': 'application/json' },
 })
 
